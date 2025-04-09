@@ -55,4 +55,3 @@ jobs:
         with:
           script: |
             core.setFailed('quality gates not met')
-
